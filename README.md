@@ -11,9 +11,7 @@ A simple portfolio website built with **HTML** and **CSS**. This project include
 
 ## How to View  
 1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/yourusername/your-repo-name.git  
-   ```  
+   link   https://vignesh-839.github.io/portfolio-simple-website/
 2. Open the `index.html` file in your browser to explore the website locally.  
 
 ## Feedback  
